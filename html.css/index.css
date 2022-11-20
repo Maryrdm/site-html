@@ -1,0 +1,22 @@
+body{
+    background-image: url(../html.css/img/fundo.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    width: 500px;
+    height: 623px;
+}
+
+.enter{
+    display: inline;
+    word-spacing: 100px;
+}
+
+h2{
+    color: white;
+}
+
+h5{
+    color: rgba(255, 255, 255, 0.89);
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+}

@@ -1,0 +1,60 @@
+coloca um abaixo do outro como lista
+<UL TYPE=DISC>
+          <LI> Primeiro item
+          <LI> Segundo item
+          <LI> Terceiro item
+        </UL>
+
+
+cabeçalho:
+home
+cronologia
+civilizações
+curiosidades
+o que é?.
+
+
+corpo do home:
+falando sobre a historia
+falar o que vai ter.
+
+Nesse site tera quase todas as informação a historia do mundo
+
+
+O que é a História e o que ela estuda?
+A História é uma das disciplinas do conhecimento
+humano mais antigas de que se tem notícia. Ela
+define-se como a ciência que estuda as ações dos
+homens e mulheres no tempo e no espaço.
+
+De acordo com essa definição, o objeto principal
+de estudo da História são os homens e mulheres,
+bem como as mudanças realizadas em suas ações ao
+longo do tempo. Consequentemente, são estudadas as
+relações sociais estabelecidas, suas formas de
+organização social, as criações humanas, suas
+instituições, seus ideais, as culturas e até seus
+sentimentos.
+
+
+corpo da cronologia:
+pre - historia
+idade antiga
+idade media
+idade moderna
+idade comteporânea.
+
+
+corpo da civilização:
+tera um resumo meio breve de todas as civilizações.
+
+
+corpo da curiosidade:
+vai ter as curiosidades frequentes, e como foi cada
+
+
+corpo do o que é?:
+vai ser selecionado alguns, e vai ser colocado o que é.
+
+
+
